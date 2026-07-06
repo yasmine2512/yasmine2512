@@ -82,6 +82,4 @@
 
 ---
 
----
-
 <p align="center"><i>"Building systems that stay calm, even when everything else is moving fast."</i></p>
